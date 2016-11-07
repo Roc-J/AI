@@ -1,0 +1,6 @@
+numpy函数：[2]tile函数用法
+tile函数位于python模块 numpy.lib.shape_base中，他的功能是重复某个数组。比如tile(A,n)，功能是将数组A重复n次，构成一个新的数组，我们还是使用具体的例子来说明问题：
+1.引入numpy下的所有方法
+from numpy import *
+
+2. 我们创建一个a,如图所示，
