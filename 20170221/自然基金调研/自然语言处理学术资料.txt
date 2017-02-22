@@ -1,0 +1,19 @@
+NLP（natural language processing） 自然语言处理
+CL(computational linguistics)  计算语言学
+ACL(The Association for Computational Linguistics URL:The Association for Computational Linguistics Member Portal)  计算语言学协会
+ACL学会还会在北美和欧洲召开分年会，分别称为NAACL和EACL
+ACL学会下设多个特殊兴趣小组（special interest groups，SIGs）
+其中比较有名的包括
+SIGDAT（Linguistic data and corpus-based approaches to NLP）、SIGNLL（Natural Language Learning）等。
+这些SIGs也会组织一些国际学术会议，其中比较有名的就是SIGDAT组织的EMNLP（Conference on Empirical Methods on Natural Language Processing）和SIGNLL组织的
+CoNLL（Conference on Natural Language Learning）。
+此外，还有一个全称
+International Committee on Computational Linguistics的老牌NLP/CL学术组织，每两年组织International Conference on Computational Linguistics（COLING）国际会议，也是NLP/CL的重要学术会议。
+一般公认ACL、NAACL、EMNLP、COLING为NLP/CL最重要的四大顶级学术会议
+作为NLP/CL领域的学者最大的幸福在于，ACL学会网站建立了称作ACL Anthology的页面（URL：ACL Anthology），为其主办的所有国际学术会议论文提供免费下载，甚至也囊括了其他组织主办的学术会议，例如COLING、IJCNLP等。
+
+NLP/CL的旗舰学术期刊是Computational Linguistics（MIT Press Journals - Computational Linguistics）
+
+此外，ACL学会为了提高学术影响力，也创办了论文要求篇幅相对较短的Transactions of ACL（TACL，URL：http://www.transacl.org/），值得关注
+
+此外也有很多与NLP/CL有关的期刊，如ACM Transactions on Information Systems，ACM Transactions on Speech and Language Processing，ACM Transactions on Asian Language Information Processing，Journal of Quantitative Linguistics等等。
